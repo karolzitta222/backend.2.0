@@ -1,0 +1,54 @@
+{
+  "alunos": [
+    {
+      "id": 4,
+      "nome": "teste",
+      "email": "teste@hotmail.com",
+      "idade": "",
+      "cpf": "43243445544",
+      "numero": "34874979793",
+      "curso": "analise de sistemas"
+    },
+    {
+      "id": 5,
+      "nome": "TESTE",
+      "email": "teste@hotmail.com",
+      "idade": "",
+      "cpf": "235436398356",
+      "numero": "606567545498",
+      "curso": "analise de sistemas"
+    },
+    {
+      "id": 6,
+      "nome": "nao sei",
+      "email": "naosei@gmail.com",
+      "curso": "analise de sistemas",
+      "cpf": "14522025454238",
+      "numero": "25420542542514254256"
+    },
+    {
+      "id": 7,
+      "nome": "kawqkwer",
+      "email": "rdfsdc@gmail.com",
+      "curso": "engenharia de software",
+      "cpf": "000.000.000.-00",
+      "numero": "55 61 987654321"
+    },
+    {
+      "id": 8,
+      "nome": "ana vitoria de deus",
+      "email": "aninhadograu@gmail.com",
+      "curso": "engenharia de software",
+      "cpf": "123.456.789-00",
+      "numero": "77 98765-4321"
+    },
+    {
+      "id": 9,
+      "nome": "heitorzita",
+      "email": "homemfiel.deb@gmail.com",
+      "curso": "Ciencia da computação",
+      "cpf": "09876543211",
+      "numero": "42 543216789"
+    }
+  ]
+}
